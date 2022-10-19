@@ -1,2 +1,7 @@
-# COMP3700
-Software Modeling and Design (Spring 2022)
+# COMP 3700
+COMP 3700 Projects and Assignments
+Software Modeling and Design
+
+```
+
+```
