@@ -1,0 +1,8 @@
+Mary Mitchell
+COMP3700-001
+Due Date: April 30, 2022
+Project 3 Report
+
+To complete this project, I used the starter code provided for us on Canvas along with the other code we have been given throughout the semester. This project was much lengthier and much more challenging than the first two. For the final version of this system, I made a few changes to my database design. To simplify things, I used the User table to store the information originally in Customers. This choice made things much more understandable and cohesive when it came to implementing my solution. The manager functionality was easy to do since I simply had to reuse the productviewcontroller from the previous projects. Most of the user stories for customers were easy since they could be based off of the previous assignments as well. Making orders was a bit challenging in that multiple tables in the database had to be modified. When an order is made the program calculates the cost of the order and checks to make sure a product exists and that there is enough in stock for the order. This required three tables to be changed: the products table had to be updated with the new product quantity, and the orderline and order tables had to add new items based on the order. For the product search and order history features, I used what we did in assignment 3 to implement these features. Overall, I dedicated about 4 whole days to this project. It was very time consuming but I appreciated the challenge. All of the required user stories are demonstrated in the link below. 
+
+Youtube link: https://youtu.be/hbLH6xjTAyY
