@@ -1,8 +1,3 @@
-# COMP 3700
-COMP 3700 Projects and Assignments
-Software Modeling and Design
-
-```
 
     Total Views per Day from 2022-10-19 to 2022-10-20
 
@@ -26,4 +21,3 @@ Software Modeling and Design
 
     Chart last updated - Thu Oct 20 00:37:53 2022 UTC
     
-```
