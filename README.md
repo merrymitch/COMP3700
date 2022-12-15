@@ -1,7 +1,6 @@
 # COMP 3700
-COMP 3700 Projects and Assignments
-Software Modeling and Design
-
+- Software Modeling and Design Projects and Assignments
+- By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 ```
 
         Total Views per Day from 2022-10-19 to 2022-12-15
