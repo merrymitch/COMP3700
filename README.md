@@ -4,7 +4,7 @@ Software Modeling and Design
 
 ```
 
-        Total Views per Day from 2022-10-19 to 2022-12-31
+        Total Views per Day from 2022-10-19 to 2023-01-01
 
         Repository Views
       44 ┼╮
@@ -22,8 +22,8 @@ Software Modeling and Design
        9 ┤│      ││                                               ╭╮
        6 ┤│      ││                                               ││
        3 ┤│      ││            ╭╮                                 ││
-       0 ┤╰──────╯╰────────────╯╰─────────────────────────────────╯╰───────────────
+       0 ┤╰──────╯╰────────────╯╰─────────────────────────────────╯╰────────────────
 
-        Chart last updated - Sat Dec 31 00:00:06 2022 UTC
+        Chart last updated - Sun Jan  1 00:00:07 2023 UTC
         
 ```
