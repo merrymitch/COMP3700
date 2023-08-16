@@ -4,11 +4,11 @@ Software Modeling and Design
 
 ```
 
-        Total Views per Day from 2023-05-18 to 2023-08-15
+        Total Views per Day from 2023-05-19 to 2023-08-16
 
         Repository Views
        0 ┼─────────────────────────────────────────────────────────────────────────────────────────
 
-        Chart last updated - Tue Aug 15 00:00:11 2023 UTC
+        Chart last updated - Wed Aug 16 00:00:09 2023 UTC
         
 ```
