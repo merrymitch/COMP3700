@@ -24,6 +24,6 @@ Software Modeling and Design
        1 ┤      ││            ││                                                           ││
        0 ┼──────╯╰────────────╯╰───────────────────────────────────────────────────────────╯╰──────
 
-        Chart last updated - Tue Dec  5 00:00:01 2023 UTC
+        Chart last updated - Tue Dec  5 23:59:59 2023 UTC
         
 ```
